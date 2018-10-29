@@ -63,9 +63,9 @@ Until now, we've been testing JavaScript's in-built functionality, which is kind
 
 Read The coolculator class and tests.
 
-**What methods does the Cooclulator currently implement?**
+**What methods does the Cooclulator currently implement?** addition
 
-**Describe how the existing test works**
+**Describe how the existing test works** test instantiates a new calculator and then tests if an addition produces the correct result
 
 **Change a value in the `add()` test so it fails.**
 Once you've seen it fail, revert your change so it's green again.
@@ -75,9 +75,9 @@ Once you've seen it fail, revert your change so it's green again.
 
 Now let's do some TDD! Uncomment the `multiply()` test.
 
-**What do you expect to happen when you run your tests?**
+**What do you expect to happen when you run your tests?** it will fail as their is no multiply function
 
-**What actually happened when you ran your tests?**
+**What actually happened when you ran your tests?** failed
 
 **Add a method to the Coolculator so the test passes green**
 
