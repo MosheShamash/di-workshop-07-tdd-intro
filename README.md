@@ -49,7 +49,8 @@ Once you understand what's going on, **ANSWER THE QUESTION IN THIS README FILE**
 
 Look in [`array.test.js`](test/array.test.js). This contains some tests for JavaScript's built-in Array methods.
 
-**What do the existing tests actually test (explain in english)?**
+**What do the existing tests actually test (explain in english)?** One checks if the 'push' function adds an item to an array
+The other checks if the 'push' function gives the correct length of the array'
 
 **Add a test for the `pop()` method.**
 Hint: You'll need _two_ assertions to fully test that it `pop()` works. Explain why you chose these assersions here.
